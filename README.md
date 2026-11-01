@@ -21,4 +21,4 @@ about two hours of assignment work. Everything you need for the assignments is i
 | `ssh-connection/` | Guide to connect to bwUniCluster with SSH ([read it online](https://negin-katal.github.io/datascience_env_monit/ssh-connection/)) |
 | `flux4student/` | FLUXNET site explorer and the weekly data used in the course ([open it online](https://negin-katal.github.io/datascience_env_monit/flux4student/)) |
 
-## How to use this repository
+Last edited Nov. 2026
