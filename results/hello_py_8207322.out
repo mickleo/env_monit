@@ -1,0 +1,19 @@
+Host: uc3n069.localdomain
+Job ID: 8207322
+Resamples: 5000
+Mean daily GPP: 4.01 (95% CI 3.84 to 4.17)
+
+============================= JOB FEEDBACK =============================
+
+NodeName=uc3n069
+Job ID: 8207322
+Cluster: uc3
+User/Group: fr_mn344/fr_fr
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 2
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 00:00:32 core-walltime
+Job Wall-clock time: 00:00:16
+Memory Utilized: 34.83 MB
+Memory Efficiency: 0.87% of 3.91 GB (1.95 GB/core)
