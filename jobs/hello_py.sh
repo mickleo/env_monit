@@ -7,5 +7,5 @@
 
 # python3 missing or too old? See: module spider python
 # module load devel/python/<version>
-cd "$HOME/datascience_env_monit"
+cd "$HOME/env_monit"
 python3 scripts/cluster_hello.py
